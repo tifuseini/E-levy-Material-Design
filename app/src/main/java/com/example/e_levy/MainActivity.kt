@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun calculateElevy() {
-        val stringInTextField = binding.costOfService.text.toString()
+        val stringInTextField = binding.costOfServiceEditText.text.toString()
         val cost = stringInTextField.toDoubleOrNull()
         if (cost == null) {
             binding.charges.text = ""
