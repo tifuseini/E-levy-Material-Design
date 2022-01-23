@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-levy</string>
+    <string name="amount_of_money">How much you sending</string>
+    <string name="network_e_levy_charges">Network charges + E-levy(1.75)</string>
+    <string name="mtn">MTN (2.75%)</string>
+    <string name="vodafone">Vodafone (1.75%)</string>
+    <string name="airtel_tigo">AirtelTigo (1.75%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="charges">Charges: GHC %s</string>
+    <string name="recipient_amount">Recipient Amount : GHC %s</string>
+</resources>
