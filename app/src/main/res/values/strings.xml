@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">E-levy</string>
+    <string name="app_name">E-levy-Material</string>
     <string name="amount_of_money">How much you sending</string>
     <string name="network_e_levy_charges">Network charges + E-levy(1.75)</string>
     <string name="mtn">MTN (2.75%)</string>
